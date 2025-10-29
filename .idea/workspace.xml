@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86bf5a80-d2a0-4bdb-ae3a-c0c4e5e0407b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ArikMerzon1&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ArikMerzon1/thomann-tech-task-by-arik-merzon.git&quot;,
+    &quot;accountId&quot;: &quot;6b3d93f4-6aae-485a-bc33-6a02ca99bc60&quot;
+  }
+}</component>
+  <component name="HttpClientOnboardingState">{
+  &quot;isOnboardingCommentShown&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="31gS3pc6LUQuzxomNOjahvxbglw" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;HTTP Request.temp-controller | GET request to example server.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Playwright.API test example.executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.JetBrains Store Tests (1).executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.JetBrains Store Tests.Add item to basket and check Item, Price Test.executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.JetBrains Store Tests.All links are valid Test.executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.JetBrains Store Tests.Changing the billing plan Test.executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.JetBrains Store Tests.Does all the products visible Test.executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.JetBrains Store Tests.Payment methods are availability.executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.JetBrains Store Tests.Subscription Options Test.executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.JetBrains Store Tests.all links are valid.executor&quot;: &quot;Debug&quot;,
+    &quot;Playwright.JetBrains Store Tests.executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.JetBrains Store Tests.test 1.executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.Selecting random categories, sub-categories, and products.CableGuyTest (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Playwright.Selecting random categories, sub-categories, and products.CableGuyTest.executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.Selecting random categories, sub-categories, and products.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/macmini/Documents/GitHub/test-assignment-senior-aq-engineer-by-arik-merzon/src/pages&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/macmini/Documents/GitHub/test-assignment-senior-aq-engineer-by-arik-merzon/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Playwright.JetBrains Store Tests (1)">
+    <configuration name="JetBrains Store Tests (1)" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <playwright-package value="$PROJECT_DIR$/node_modules/@playwright/test" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/tests/jetbrains-store.test.ts" />
+      <test-names>
+        <test-name value="JetBrains Store Tests" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="JetBrains Store Tests" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <playwright-package value="$PROJECT_DIR$/node_modules/@playwright/test" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/tests/buy-page.test.ts" />
+      <test-names>
+        <test-name value="JetBrains Store Tests" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="JetBrains Store Tests.All links are valid Test" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <playwright-package value="$PROJECT_DIR$/node_modules/@playwright/test" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tests/buy-page.test.ts" />
+      <test-names>
+        <test-name value="JetBrains Store Tests" />
+        <test-name value="All links are valid Test" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="JetBrains Store Tests.Payment methods are availability" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <playwright-package value="$PROJECT_DIR$/node_modules/@playwright/test" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tests/buy-page.test.ts" />
+      <test-names>
+        <test-name value="JetBrains Store Tests" />
+        <test-name value="Payment methods are availability" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="JetBrains Store Tests.all links are valid" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <playwright-package value="$PROJECT_DIR$/node_modules/@playwright/test" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tests/buy-page.test.ts" />
+      <test-names>
+        <test-name value="JetBrains Store Tests" />
+        <test-name value="all links are valid" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Playwright.JetBrains Store Tests (1)" />
+        <item itemvalue="Playwright.JetBrains Store Tests.Payment methods are availability" />
+        <item itemvalue="Playwright.JetBrains Store Tests" />
+        <item itemvalue="Playwright.JetBrains Store Tests.All links are valid Test" />
+        <item itemvalue="Playwright.JetBrains Store Tests.all links are valid" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-WS-252.26199.162" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86bf5a80-d2a0-4bdb-ae3a-c0c4e5e0407b" name="Changes" comment="" />
+      <created>1755944025698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755944025698</updated>
+      <workItem from="1755944026999" duration="5537000" />
+      <workItem from="1757919085377" duration="1681000" />
+      <workItem from="1757922456515" duration="108000" />
+      <workItem from="1757922570528" duration="36807000" />
+      <workItem from="1758544526252" duration="24000" />
+      <workItem from="1758625915122" duration="622000" />
+      <workItem from="1758645411383" duration="1574000" />
+      <workItem from="1761216068174" duration="12845000" />
+      <workItem from="1761556072089" duration="22077000" />
+      <workItem from="1761581748514" duration="7000" />
+      <workItem from="1761581765361" duration="11278000" />
+      <workItem from="1761639768821" duration="16240000" />
+      <workItem from="1761658571777" duration="8617000" />
+      <workItem from="1761675771226" duration="19273000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="includedJSSourcePackages">
+      <set>
+        <option value="playwright-core" />
+      </set>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
