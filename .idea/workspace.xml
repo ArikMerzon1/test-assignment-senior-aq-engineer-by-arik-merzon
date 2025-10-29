@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86bf5a80-d2a0-4bdb-ae3a-c0c4e5e0407b" name="Changes" comment="" />
+    <list default="true" id="86bf5a80-d2a0-4bdb-ae3a-c0c4e5e0407b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Test Assignment.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,12 +30,12 @@
     &quot;assignee&quot;: &quot;ArikMerzon1&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/ArikMerzon1/thomann-tech-task-by-arik-merzon.git&quot;,
-    &quot;accountId&quot;: &quot;6b3d93f4-6aae-485a-bc33-6a02ca99bc60&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ArikMerzon1/test-assignment-senior-aq-engineer-by-arik-merzon.git",
+    "accountId": "6b3d93f4-6aae-485a-bc33-6a02ca99bc60"
   }
-}</component>
+}]]></component>
   <component name="HttpClientOnboardingState">{
   &quot;isOnboardingCommentShown&quot;: true
 }</component>
@@ -186,7 +189,8 @@
       <workItem from="1761581765361" duration="11278000" />
       <workItem from="1761639768821" duration="16240000" />
       <workItem from="1761658571777" duration="8617000" />
-      <workItem from="1761675771226" duration="19273000" />
+      <workItem from="1761675771226" duration="19458000" />
+      <workItem from="1761747360331" duration="2073000" />
     </task>
     <servers />
   </component>
